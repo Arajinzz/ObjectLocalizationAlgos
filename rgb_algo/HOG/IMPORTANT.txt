@@ -1,0 +1,7 @@
+Script Predict : Pour Tester Nerual Network sur une image donnee
+
+Script Features_Extraction : extraire les donnee d'entrainement
+
+Script Classify : pour tester le reseau de neuron sur toutes les donnee de test et evaluer l'accuracy
+
+Script TrainNew : pour entrainer le reseau de neurons
